@@ -1,6 +1,9 @@
 # eduAdmin
 
 In-class project
+
+teamwork with [heard1](https://github.com/heard1) and [JiangWenPL](https://github.com/JiangWenPL)
+
 For any problem about this project, please contact: WenJiang@zju.edu.cn
 
 ## Requirement:
